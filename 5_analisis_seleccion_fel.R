@@ -1,3 +1,8 @@
+#!/usr/bin/env Rscript
+#
+# Plotea los valores de dN/dS en cada posicón del alineamiento.
+#
+
 library(tidyverse)
 
 directorio <- '/Users/diegoruiz/Google Drive/4.1 Biotecnología/EMF - Evolución molecular y filogenia/_tEMF - Trabajo final/5_presiones_de_seleccion/fel'
